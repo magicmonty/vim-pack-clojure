@@ -1,21 +1,28 @@
 [submodule "start/vim-classpath"]
 	path = start/vim-classpath
 	url = https://github.com/tpope/vim-classpath.git
+  ignore = dirty
 [submodule "start/vim-clojure-highlight"]
 	path = start/vim-clojure-highlight
 	url = https://github.com/guns/vim-clojure-highlight.git
+  ignore = dirty
 [submodule "start/vim-clojure-static"]
 	path = start/vim-clojure-static
 	url = https://github.com/guns/vim-clojure-static.git
+  ignore = dirty
 [submodule "start/vim-expand-region"]
 	path = start/vim-expand-region
 	url = https://github.com/terryma/vim-expand-region.git
+  ignore = dirty
 [submodule "start/vim-fireplace"]
 	path = start/vim-fireplace
 	url = https://github.com/tpope/vim-fireplace.git
+  ignore = dirty
 [submodule "start/vim-sexp"]
 	path = start/vim-sexp
 	url = https://github.com/guns/vim-sexp.git
+  ignore = dirty
 [submodule "start/vim-sexp-mappings-for-regular-people"]
 	path = start/vim-sexp-mappings-for-regular-people
 	url = https://github.com/tpope/vim-sexp-mappings-for-regular-people.git
+  ignore = dirty
